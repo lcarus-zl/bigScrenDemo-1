@@ -5,6 +5,6 @@ cd dist &&
 git init &&
 git add . &&
 git commit -m deploy &&
-git remote add origin git@github.com:FrankFang/Se1uqKnmKDZS.git &&
+git remote add origin git@github.com:lcarus-zl/bigScrenDemo-1.git &&
 git push -uf origin main:gh-pages &&
 cd -;
